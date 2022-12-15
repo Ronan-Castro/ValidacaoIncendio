@@ -4,4 +4,4 @@
 
 ### Link para Medium:> https://medium.com/@ronanscastro/prevendo-inc%C3%AAndios-florestais-em-altamira-amaz%C3%B4nia-com-machine-learning-de4422c64bb3
 
-### [Projeto Tera Predição de Incêndios.pdf](https://github.com/Ronan-Castro/Modelo-de-Validacao-sobre-Risco-de-Fogo-na-Regiao-de-Altamira/files/10233283/Projeto.Tera.Predicao.de.Incendios.pdf)
+### PDF dos Slides sobre o Projeto: [Projeto Tera Predição de Incêndios.pdf](https://github.com/Ronan-Castro/Modelo-de-Validacao-sobre-Risco-de-Fogo-na-Regiao-de-Altamira/files/10233283/Projeto.Tera.Predicao.de.Incendios.pdf)
